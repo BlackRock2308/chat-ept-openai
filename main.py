@@ -8,7 +8,7 @@ application = Flask(__name__)
 
 # openai.api_key = os.getenv("API_KEY")
 
-openai.api_key = ""
+openai.api_key = "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"
 
 # DEBUG=True
 # SECRET_KEY=your_secret_key
